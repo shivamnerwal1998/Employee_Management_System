@@ -7,6 +7,8 @@
 
 </br>
 <b> Code Editor used : VS Code </b></br>
+# index.js file contains all the backend program 
+## in views directory all frontend programe files are present
     
 
 
@@ -37,7 +39,7 @@ There are three ways to search an Employee </br>
 </br>
 </br>
 
-There are options like : /br>
+There are options like : </br>
 1. Update skill</br>
 2. Change Password</br>
 3. Change Password </br>
@@ -85,6 +87,11 @@ after creating profile user will be rdirected to Admin's Login page
 ## after clicking on logout 
 <b> The the manager is redirected to login page again</b>
 ![](Images_employee_management_system/9.Admin_operations_1.bmp)
+
+</br>
+</br>
+<b>Thanks alot</b> 
+
 
 
 
