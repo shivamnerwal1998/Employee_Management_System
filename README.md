@@ -54,6 +54,11 @@ he have to c reate his profile first </br>
 </br>
 after creating profile user will be rdirected to Admin's Login page
 ![](Images_employee_management_system/9.Admin_operations_1.bmp)
+## After Entering the valid credentials the user will redirected to Admin's Dashboard
+<b>Here the first functionaty is to add a new employee by creating Employee's Profile</b>
+![](Images_employee_management_system/11.Admin_dashboard_1.bmp)
+![](Images_employee_management_system/11.Admin_dashboard_2.bmp)
+
 
 
 
