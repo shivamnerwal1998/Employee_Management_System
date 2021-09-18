@@ -1,10 +1,11 @@
 # Employee_Management_System
 <b>Technology used </b></br>
+</br>
 1 . <b> Node JS and Express JS (Backend) </b> </br>
 2 . <b> Mysql (Database)  </b></br>
 3 . html/css (Front End)</br>
 
-</br></br>
+</br>
 <b> Code Editor used : VS Code </b></br>
     
 
