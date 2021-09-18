@@ -33,3 +33,10 @@ There are options like : /br>
 ![](Images_employee_management_system/6.edit_details_1.bmp)
 ![](Images_employee_management_system/7.edit_details_2.bmp)
 
+## If user clicks on Managers details 
+The profile of All CEO's profile will be displayed
+![](Images_employee_management_system/8.manager_profile.bmp)
+
+
+
+
