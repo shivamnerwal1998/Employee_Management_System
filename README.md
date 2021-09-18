@@ -1,4 +1,4 @@
-# Employee_Management_System
+# Employee Management System
 <b>Technology used </b></br>
 </br>
 1 . <b> Node JS and Express JS (Backend) </b> </br>
