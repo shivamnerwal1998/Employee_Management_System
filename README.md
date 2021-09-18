@@ -38,6 +38,13 @@ The profile of All CEOs  will be displayed
 ![](Images_employee_management_system/8.manager_profile.bmp)
 
 ## If user will click on logout the session will be destroyed and the user redirected to login page
+![](Images_employee_management_system/2.employee_login%20page.bmp)
+
+## All functionalities of Employee are implemented , </br> lets's see Admin functionalities 
+![](Images_employee_management_system/1.firstPage.bmp)
+## If user clicks on Admin Operations
+
+
 
 
 
