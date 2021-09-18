@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href= "/public/assets/style.css" rel="stylesheet" type="text/css" />
+  <title>Document</title>
+</head>
+<body>
+  <!-- Nav Bar -->
+  <ul>
+    <li><a href="/welcome">Add</a></li>
+    <li><a href="/show">View</a></li>    
+    <li><a href="/updateEmployee">Update</a></li>
+    <li><a href="/deleteEmployee">Delete</a></li>
+    <li><a href="/logout">Logout</a></li>
+  </ul>
+  
+  <!-- NavBar ends  -->
+   
+  
+
+
+<div class="main">
+  <h1>Admin Dashboard</h1>
+  <h2> Add a Employee  </h2>
+
+  <form method="POST" action="/insertEmployee">
+    
+    <label for="Name"> Employee Name </label> </br>
+    <input type ="text" name="Name" placeholder="Enter Employee Name" required/>
+
+    <label for="Email"> Email :</label> </br>
+    <input type ="text" name="Email" placeholder="Enter Employee Email`" required/>
+
+    <label for="Location"> City :</label> </br>
+    <input type ="text" name="Location" placeholder="Enter Employee City" required/>
+
+    <label for="Project"> Project :</label> </br>
+    <input type ="text" name="Project" placeholder="Enter Employee Project" required/>
+
+    <label for="Skills"> Skills :</label> </br>
+    <input type ="text" name="Skills" placeholder="Enter skill set " required/>
+    <label for="Email" name="phone" > Contact :</label> </br>
+    <input type ="tel" name="Phone" placeholder="Enter Contact Number" required/>
+
+    <label for="Manager"> Manager :</label> </br>
+    <input type ="text" name="Manager" placeholder="Enter Employee Manager" required/>
+
+    
+    <label for="Band"> Band :</label> </br>
+    <input type ="number" name="Band" placeholder="Enter Band of Employee" min="0" max="7" required/>
+
+    <input type ="submit" name = "Create Profile" value="CreateProfile"/>
+    
+  
+
+  </form>
+
+</div>  
+</body>
+</html>

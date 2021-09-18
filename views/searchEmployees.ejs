@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/public/assets/style.css" rel="stylesheet" type="text/css" />
+  <title>Document</title>
+</head>
+
+<body>
+  
+  <ul>
+    <li><a href="/employee_dashboard">DashBoard</a></li>
+    
+    <li ><a href="/employee_logout">Logout</a></li>
+  </ul>
+ 
+  <div class="main">
+      <h1>LoggedIn as: <% users.forEach((user)=>{ %>
+      <%= user.Name %>
+    <% }) %> </h1>
+
+    <form method = "post" action="/search_by_name">
+      <input type="text" placeholder="Enter Name of Employee"  Name = "Name" /> 
+      <input type ="submit" value= "Search By Name" />
+    </form>
+
+    <form method = "post" action="/search_by_project">
+      <input type="text" placeholder="Enter Project Name"  Name = "Project" /> 
+      <input type ="submit" value= "Search By Project" />
+    </form>
+    
+    <form method = "post" action="/search_by_designation">
+      
+      <input type="Number" placeholder="Enter Designation Band "  Name = "Designation" max="7" min="1" /> 
+      <p> The value of Band should be between 1 - 7  </p>
+      <input type ="submit" value= "Search By Designation" />
+    </form>
+
+    <form method = "post" action="/search_by_address">
+      
+      <input type="text" placeholder="City "  Name = "Location" />
+      <p>Enter employee's City</p> 
+      <input type ="submit" value= "Search By Address" />
+    </form>
+    
+    
+    
+
+
+  </div>
+</body>
+
+</html>
+

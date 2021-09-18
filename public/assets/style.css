@@ -1,0 +1,143 @@
+
+
+
+body{
+  background-color: whitesmoke;
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+}
+.main{
+  padding: 50px;
+  font-size: 100%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 4;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: gainsboro;
+}
+#logout{
+  display: none;
+}
+
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  outline: none;
+  
+}
+input[type=text]:focus {
+  border: 4px  solid salmon;
+} 
+input[type=number]:focus {
+  border: 4px  solid salmon;
+} 
+input[type=email]:focus {
+  border: 4px  solid salmon;
+} 
+input[type=password]:focus {
+  border: 4px  solid salmon;
+} 
+input[type=submit]{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+input[type=submit]:hover{
+  background-color: black;
+}
+
+input[type=button]{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+input[type=button]:hover{
+  background-color: black;
+}
+#delete{
+  background-color:maroon ;
+}
+#delete:hover{
+  background-color: salmon;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color: white;}
+
+input.delete{
+  background-color: maroon; 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+
+}
+input.update{
+  background-color: rgb(117, 117, 19); 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+input.delete:hover{
+  background-color: salmon;
+}
+.Employee_Navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 4;
+  overflow: hidden;
+  background-color: #333;
+}
+.Employee_Navbar_items{
+  float: left;
+
+}

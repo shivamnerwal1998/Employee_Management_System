@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/style/style.css" rel="stylesheet" type="text/css">
+  
+  <link href= "/public/assets/style.css" rel="stylesheet" type="text/css" /> 
+
+  <title>Document</title>
+</head>
+<body>
+   <!-- Nav Bar -->
+   <ul>
+    <li><a href="/welcome">Add</a></li>
+    <li><a href="/show">View</a></li>    
+    <li><a href="/updateEmployee">Update</a></li>
+    <li><a href="/deleteEmployee">Delete</a></li>
+    <li><a href="/logout">Logout</a></li>
+  </ul>
+  
+  <!-- NavBar ends  -->
+  
+  <div class="main">
+  <table>
+    <tr>
+      <th>
+        Name 
+      </th>
+      <th>
+        Email 
+      </th>
+      <th>
+        Skills 
+      </th>
+      <th>
+        Phone 
+      </th>
+      <th>
+       Manager 
+      </th>
+      <th>
+        Band 
+      </th>
+   
+    </tr>
+    <% users.forEach(function(user){ %>
+      <tr>
+        <td><%= user.Name %></td>
+        <td><%= user.Email %></td>
+        <td><%= user.Skills %></td>
+        <td><%= user.Phone %></td>
+        <td><%= user.Manager %></td>
+        <td><%= user.Band %></td>
+        
+           </tr>
+      <%
+    }) 
+    %>
+  </table>
+  </div>
+  
+</body>
+</html>

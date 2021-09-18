@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href= "/public/assets/style.css" rel="stylesheet" type="text/css" /> 
+  <title>Document</title>
+</head>
+<body>
+    <!-- Nav Bar -->
+    <ul>
+      <li><a href="/welcome">Add </a></li>
+      <li><a href="/show">View </a></li>    
+      <li><a href="/updateEmployee">Update</a></li>
+      <li><a href="/deleteEmployee">Delete</a></li>
+      <li ><a href="/logout">Logout</a></li>
+    </ul>
+    <!-- Nav bar ends  -->
+  <div class = "main">
+  <table>
+    <tr>
+      <th>
+        Name 
+      </th>
+      <th>
+        Email 
+      </th>
+      <th>
+        Skills 
+      </th>
+      <th>
+        Phone 
+      </th>
+      <th>
+       Manager 
+      </th>
+      <th>
+        Band 
+      </th>
+   
+    </tr>
+    <% users.forEach(function(user){ %>
+      <tr>
+        <td><%= user.Name %></td>
+        <td><%= user.Email %></td>
+        <td><%= user.Skills %></td>
+        <td><%= user.Phone %></td>
+        <td><%= user.Manager %></td>
+        <td><%= user.Band %></td>
+        
+           </tr>
+      <%
+    }) 
+    %>
+  </table>
+    </br>
+    </br>
+  <h1> Update Employee Details : </h1></br>
+
+
+  <form method="POST" action="/update" >
+    <h1> Enter Name and Phone OF Employee Whose Details 
+      You Want To Update </h1>
+    <label for="Name"> Enter Empoyee Name :</label>
+    <input type="text" name = "Name" placeholder="Enter Name" required/>
+  </br>
+    <label for="Phone"> </label>
+    <input type="tel" name="Phone"  placeholder="Enter Phone Number" required/>
+</br>
+<h1>Enter New Details:</h1> 
+  <label for="Project"> New Project</label>
+  <input type="text" name="Project"  placeholder="Enter New Project " required/>
+</br>
+<label for="Manager">New Manager</label>
+<input type="text" name="Manager"  placeholder="Enter New Project " required/>
+<label for="Manager">New Band</label>
+<input type="number" name="Band"  placeholder="Enter New Band " min="0" max="7" required/>
+</br>
+
+
+    <input type ="submit" name = "Update" value="Update"/>
+
+  </form>
+
+
+  </div>
+</body>
+</html> 
