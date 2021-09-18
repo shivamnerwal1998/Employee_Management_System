@@ -64,14 +64,14 @@ The profile of All CEOs  will be displayed
 </br> if user enter the valid credintials </br>
 he will be loggedin as admin <br/>
 else</br>
-he have to c reate his profile first </br>
+he have to create his profile first </br>
 <b>Create a profile page : </b>
 ![](Images_employee_management_system/10.create_employee_profile.bmp)
 </br>
 after creating profile user will be rdirected to Admin's Login page
 ![](Images_employee_management_system/9.Admin_operations_1.bmp)
 ## After Entering the valid credentials the user will redirected to Admin's Dashboard
-<b>Here the first functionaty is to add a new employee by creating Employee's Profile</b>
+<b>Here the first functionality is to add a new employee by creating Employee's Profile</b>
 ![](Images_employee_management_system/11.Admin_dashboard_1.bmp)
 ![](Images_employee_management_system/11.Admin_dashboard_2.bmp)
 
@@ -86,12 +86,12 @@ after creating profile user will be rdirected to Admin's Login page
 ## Manager can delete the employee's details by clicking on delete 
 ![](Images_employee_management_system/14.deleteEmployee.bmp)
 ## after clicking on logout 
-<b> The the manager is redirected to login page again</b>
+<b> The manager is redirected to login page again</b>
 ![](Images_employee_management_system/9.Admin_operations_1.bmp)
 
 </br>
 </br>
-<b>Thanks alot</b> 
+
 
 
 
