@@ -69,6 +69,10 @@ after creating profile user will be rdirected to Admin's Login page
 ![](Images_employee_management_system/13.update_employee_2.bmp)
 ## Manager can delete the employee's details by clicking on delete 
 ![](Images_employee_management_system/14.deleteEmployee.bmp)
+## after clicking on logout 
+<b> The the manager is redirected to login page again</b>
+![](Images_employee_management_system/9.Admin_operations_1.bmp)
+
 
 
 
