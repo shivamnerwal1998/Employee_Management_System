@@ -65,6 +65,8 @@ after creating profile user will be rdirected to Admin's Login page
 <b> Manager first have to Enter the Phone number and of Employe whose details he wants to edit  </b>
 
 ![](Images_employee_management_system/13.update_employee.bmp)
+<b>Then Manager can enter the new skills</b>
+![](Images_employee_management_system/13.update_employee_2.bmp)
 
 
 
