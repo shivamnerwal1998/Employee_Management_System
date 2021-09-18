@@ -9,7 +9,7 @@
 <b> Code Editor used : VS Code </b></br>
 
 <b> index.js file contains all the backend program</b></br> 
-in views directory all ejs program files and  in assets directory which is in public directory the css programe file is present</br>
+in views directory all ejs program files and  in assets directory which is in public directory the css programe files are present</br>
     
 
 
