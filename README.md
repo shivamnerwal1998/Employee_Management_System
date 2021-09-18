@@ -45,6 +45,18 @@ The profile of All CEOs  will be displayed
 ## If user clicks on Admin Operations
 ![](Images_employee_management_system/9.Admin_operations_1.bmp)
 
+</br> if user enter the valid credintials </br>
+he will be loggedin as admin <br/>
+else</br>
+he have to c reate his profile first </br>
+<b>Create a profile page : </b>
+![](Images_employee_management_system/10.create_employee_profile.bmp)
+</br>
+after creating profile user will be rdirected to Admin's Login page
+![](Images_employee_management_system/11.Admin_dashboard.bmp)
+
+
+
 
 
 
