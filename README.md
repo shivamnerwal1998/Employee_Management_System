@@ -18,6 +18,7 @@
 ![](Images_employee_management_system/2.employee_login%20page.bmp)
 
 ## If user enters Valid credentials , user redirected to Employee Dashboard page 
+<b>The default password of all Employees is 123 </b>
 ![](Images_employee_management_system/3.employee_dashboard.bmp)
 
 ## If user clicks on Search Employee 
