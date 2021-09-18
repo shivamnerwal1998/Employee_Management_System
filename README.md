@@ -31,6 +31,6 @@ There are options like : /br>
 4. Change phone </br>
 5. Change Location</br>
 </br>
-![](Images_employee_management_system/6.edit_details_1.bmp)
-![](Images_employee_management_system/7.edit_details_2.bmp)
+![](Images_employee_management_system/6.edit_details_1.bmp)</br>
+![](Images_employee_management_system/7.edit_details_2.bmp)</br>
 
