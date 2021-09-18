@@ -7,8 +7,9 @@
 
 </br>
 <b> Code Editor used : VS Code </b></br>
-# index.js file contains all the backend program 
-## in views directory all frontend programe files are present
+
+<b> index.js file contains all the backend program</b></br> 
+<b>in views directory all frontend programe files are present</b></br>
     
 
 
