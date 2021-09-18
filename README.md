@@ -42,7 +42,7 @@ The profile of All CEOs  will be displayed
 
 ## All functionalities of Employee are implemented , </br> lets's see Admin functionalities 
 ![](Images_employee_management_system/1.firstPage.bmp)
-## If user clicks on Admin Operations
+## If user clicks on Admin(Manager) Operations
 ![](Images_employee_management_system/9.Admin_operations_1.bmp)
 
 </br> if user enter the valid credintials </br>
@@ -58,6 +58,13 @@ after creating profile user will be rdirected to Admin's Login page
 <b>Here the first functionaty is to add a new employee by creating Employee's Profile</b>
 ![](Images_employee_management_system/11.Admin_dashboard_1.bmp)
 ![](Images_employee_management_system/11.Admin_dashboard_2.bmp)
+
+## Manager can view the Existing Employees 
+![](Images_employee_management_system/12.employee_details.bmp)
+## Manager can Update some Information of Employee  
+![](Images_employee_management_system/13.update_employee_2.bmp)
+
+
 
 
 
