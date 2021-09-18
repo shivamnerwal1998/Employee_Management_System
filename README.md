@@ -15,7 +15,7 @@
 ![](Images_employee_management_system/1.firstPage.bmp)
 
 # If user clicks on Employee Operations
-<b>The default password of all Employees is 123 </b>
+<b>The default password of all Employees is 123   </b>
 
 ![](Images_employee_management_system/2.employee_login%20page.bmp)
 
