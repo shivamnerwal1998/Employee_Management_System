@@ -24,8 +24,13 @@ There are three ways to search an Employee </br>
 </br>
 </br>
 
-There are three ways to Edit Employee</br>
-2.
-3.
-
+There are options like : /br>
+1. Update skill</br>
+2. Change Password</br>
+3. Change Password </br>
+4. Change phone </br>
+5. Change Location</br>
+</br>
+![](Images_employee_management_system/6.edit_details_1.bmp)
+![](Images_employee_management_system/7.edit_details_2.bmp)
 
