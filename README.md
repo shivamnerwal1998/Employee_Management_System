@@ -53,7 +53,8 @@ he have to c reate his profile first </br>
 ![](Images_employee_management_system/10.create_employee_profile.bmp)
 </br>
 after creating profile user will be rdirected to Admin's Login page
-![](Images_employee_management_system/11.Admin_dashboard.bmp)
+![](Images_employee_management_system/9.Admin_operations_1.bmp)
+
 
 
 
