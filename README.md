@@ -34,8 +34,11 @@ There are options like : /br>
 ![](Images_employee_management_system/7.edit_details_2.bmp)
 
 ## If user clicks on Managers details 
-The profile of All CEO's profile will be displayed
+The profile of All CEOs  will be displayed
 ![](Images_employee_management_system/8.manager_profile.bmp)
+
+## If user will click on logout the session will be destroyed and the user redirected to login page
+
 
 
 
