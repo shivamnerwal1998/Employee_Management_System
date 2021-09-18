@@ -67,6 +67,9 @@ after creating profile user will be rdirected to Admin's Login page
 ![](Images_employee_management_system/13.update_employee.bmp)
 <b>Then Manager can enter the new skills</b>
 ![](Images_employee_management_system/13.update_employee_2.bmp)
+## Manager can delete the employee's details by clicking on delete 
+![](Images_employee_management_system/14.deleteEmployee.bmp)
+
 
 
 
