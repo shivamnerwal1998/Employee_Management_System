@@ -43,6 +43,7 @@ The profile of All CEOs  will be displayed
 ## All functionalities of Employee are implemented , </br> lets's see Admin functionalities 
 ![](Images_employee_management_system/1.firstPage.bmp)
 ## If user clicks on Admin Operations
+![](Images_employee_management_system/9.Admin_operations_1.bmp)
 
 
 
