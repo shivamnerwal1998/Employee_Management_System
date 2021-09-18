@@ -17,6 +17,8 @@ There are three ways to search an employee </br>
 3. Search by Designation </br>
 4. Search by Address</br>
 ![](Images_employee_management_system/4.search_employee_1.bmp)
-![](Images_employee_management_system/4.search_employee_2.bmp)
+</br>
+
+![](Images_employee_management_system/5.search_employee_2.bmp)
 
 
