@@ -1,4 +1,5 @@
-# Employee Management System
+# Office Collaborator
+
 <b>Technology used </b></br>
 </br>
 1 . <b> Node JS and Express JS (Backend) </b> </br>
